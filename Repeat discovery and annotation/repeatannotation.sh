@@ -1,0 +1,2 @@
+# RepeatMasker
+RepeatMasker -pa 5 -excln -no_is -s -gff  -lib /home/ssushko/databases/vcardui_clustered.fasta GCA_905220365.2_ilVanCard2.2_genomic.fna -dir /home/ssushko/vanessa_genomes/cardui_RMasker/RMod+MITE_lib/ >& RM.run.out &
