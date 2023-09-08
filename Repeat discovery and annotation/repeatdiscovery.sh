@@ -2,6 +2,9 @@
 # RepeatModeler
 nohup /home/ssushko/repeatmasker_resources/RepeatModeler-master/RepeatModeler -database cardui -threads 8 -LTRStruct >& run2.out &
 
+# MITE Tracker
+nohup python3 -m MITETracker -g /path/to/your/genome.fasta -w 3 -j jobname &
+
 # cd-hit-est clustering
 /home/ssushko/repeatmasker_resources/cdhit-master/cd-hit-est -i vcardui_denovo.fasta -o vcardui_clustered.fasta -T 5 -aS 0.8 -aL 0.8 -c 0.8
 
