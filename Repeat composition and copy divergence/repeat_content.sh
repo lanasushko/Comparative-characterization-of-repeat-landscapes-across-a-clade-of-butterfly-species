@@ -1,0 +1,3 @@
+/home/ssushko/repeatmasker_resources/RepeatMasker/util/buildSummary.pl /home/ssushko/vanessa_genomes/atalanta_RMasker/full_lib_v1/GCF_905147765.1_ilVanAtal1.2_genomic.fna.out
+
+/home/ssushko/repeatmasker_resources/RepeatMasker/util/calcDivergenceFromAlign.pl -s /home/ssushko/vanessa_genomes/atalanta_RMasker/full_lib_v1/summmary.txt /home/ssushko/vanessa_genomes/atalanta_RMasker/full_lib_v1/GCF_905147765.1_ilVanAtal1.2_genomic.fna.align
