@@ -12,9 +12,10 @@ Contains commands used for the generation of repeat summary and divergence analy
 
 ### 3 Repeat content per chromosome
 
-
+Contains R scripts for per chromosome repeat content and window-based chromosomic repeat composition. 
 
 ### 4 Whole genome alignment
+
 
 
 ### 5 Genomic compartments
